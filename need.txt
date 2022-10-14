@@ -6,6 +6,7 @@ backcall==0.2.0
 bleach==4.1.0
 cffi==1.15.0
 colorama==0.4.4
+constants==0.6.0
 cycler==0.11.0
 dataclasses==0.8
 decorator==4.4.2
